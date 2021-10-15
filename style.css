@@ -57,7 +57,6 @@ a:active {                                  /* Link turns white, gets underlined
 
 .btn:active {                               /* Button gets darker and moves down when clicking */
     background-color: blue;
-    transform: translateX(3px);
     transform: translateY(3px);
     box-shadow: 2px 1px 1px black;
 }
